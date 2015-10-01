@@ -1,0 +1,10 @@
+target
+tinymce
+*.ipr
+*.iws
+*.iml
+.idea
+.project
+.classpath
+.settings
+.java-version
